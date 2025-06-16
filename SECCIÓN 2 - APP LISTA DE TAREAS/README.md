@@ -40,7 +40,7 @@ Puedes acceder a la aplicación de gestión de tareas en el siguiente enlace:
 
 **[🚀 Ver Aplicación]()**
 
-*La aplicación está disponible 24/7 gracias a los servicios de hosting en la nube.*
+*La aplicación está disponible 24/7 gracias a los servicios de hosting temporal en la nube.*
 
 ---
 
