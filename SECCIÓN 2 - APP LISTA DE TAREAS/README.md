@@ -28,7 +28,7 @@ Una aplicación web moderna y eficiente para la gestión de tareas, construida c
 
 ## 🌐 Despliegue
 
-La aplicación está completamente desplegada utilizando servicios en la nube gratuitos:
+La aplicación estará completamente desplegada utilizando servicios en la nube gratuitos para el día 17/06/2025 a la 12:00 p.m ⏳
 
 - **📊 Base de Datos**: PostgreSQL desplegada en **Render**
 - **🔧 Backend**: API desplegada en **Render**
