@@ -9,7 +9,7 @@ Este repositorio está organizado en las siguientes carpetas:
 ### 📋 Mini-APP-Tareas
 Una aplicación web completa de gestión de tareas desarrollada con tecnologías modernas full-stack. Incluye frontend, backend, base de datos.
 
-**👉 Abre la carpeta para ver:** Enlaces a repositorios, tecnologías utilizadas, características y aplicación en vivo.
+**👉 Abre la carpeta sección 2 para ver:** Enlaces a repositorios, tecnologías utilizadas, características y aplicación en vivo.
 
 ### 🧮 Ejercicios-Logicos
 Colección de funciones JavaScript que resuelven diversos ejercicios de lógica y matemáticas, ideales para practicar programación algorítmica.
