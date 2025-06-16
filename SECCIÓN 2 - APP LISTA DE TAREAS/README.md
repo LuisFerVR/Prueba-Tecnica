@@ -27,6 +27,24 @@ Una aplicación web moderna y eficiente para la gestión de tareas, construida c
 - **🛡️ Zod** - Validación de esquemas para manejo de datos
 ---
 
+## 🌐 Despliegue
+
+La aplicación estará completamente desplegada utilizando servicios en la nube gratuitos para el día 17/06/2025 a la 12:00 p.m ⏳
+
+- **📊 Base de Datos**: PostgreSQL desplegada en **Render**
+- **🔧 Backend**: API desplegada en **Render**
+- **🌟 Frontend**: Aplicación web desplegada en **Vercel**
+
+### 🔗 Aplicación en Vivo
+
+Puedes acceder a la aplicación de gestión de tareas en el siguiente enlace:
+
+**[🚀 Ver Aplicación](https://mini-app-tareas-frontend-git-master-luisfervrs-projects.vercel.app)**
+
+*La aplicación está disponible 24/7 gracias a los servicios de hosting temporal en la nube.*
+
+---
+
 ## 📝 Características Principales
 
 - ✅ Crear, visualizar, editar y eliminar tareas
